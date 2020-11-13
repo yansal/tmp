@@ -11,10 +11,10 @@ import (
 	"net/http"
 	"os"
 	"time"
-	"z/hooks"
 
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/yansal/sql/build"
+	"github.com/yansal/tmp/github-list-user-comments/hooks"
 )
 
 func main() {

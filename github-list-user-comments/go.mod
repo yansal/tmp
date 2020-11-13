@@ -1,4 +1,4 @@
-module z
+module github.com/yansal/tmp/github-list-user-comments
 
 go 1.15
 
